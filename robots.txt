@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sparkmidwest.com/sitemap.xml
